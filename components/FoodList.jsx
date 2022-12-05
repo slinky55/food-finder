@@ -1,6 +1,11 @@
 
 import styles from "../styles/FoodList.module.css"
 
+/**
+ * FoodList Template
+ * @param {*} param0 
+ * @returns 
+ */
 export default function FoodList({ data, title }) {
     return (
         <div className={styles.listContainer}>
