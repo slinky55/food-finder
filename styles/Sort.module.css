@@ -1,0 +1,15 @@
+.pageContainer {
+    min-width: 100vw;
+    min-height: 100vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pageContainer
+p {
+    font-size: 2em;
+    font-weight: bold;
+}
